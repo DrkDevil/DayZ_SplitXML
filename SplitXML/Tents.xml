@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="CarTent">
+        <nominal>10</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>43200</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Industrial"/>
+    </type>
+    <type name="LargeTent">
+        <nominal>10</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>43200</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Military"/>
+    </type>
+    <type name="MediumTent">
+        <nominal>10</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>43200</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="MediumTent_Green">
+        <nominal>10</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>43200</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Village"/>
+        <usage name="Hunting"/>
+    </type>
+    <type name="MediumTent_Orange">
+        <nominal>10</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>43200</restock>
+        <min>10</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>
+    <type name="PartyTent">
+        <nominal>20</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>43200</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+    </type>
+    <type name="PartyTent_Blue">
+        <nominal>20</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>43200</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+    </type>
+    <type name="PartyTent_Brown">
+        <nominal>20</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>43200</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Town"/>
+    </type>
+    <type name="PartyTent_Lunapark">
+        <nominal>20</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>43200</restock>
+        <min>20</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="containers"/>
+        <usage name="Lunapark"/>
+    </type>
+</types>
